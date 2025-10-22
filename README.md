@@ -45,7 +45,5 @@ My goal is to keep developing skills that bridge **hardware, embedded software, 
 ---
 
 ## 📫 Contact
-
-- ✉️ Email: [hamza.belarbi@etu.emse.fr](mailto:hamza.belarbi@etu.emse.fr)  
 - 💼 LinkedIn: [https://www.linkedin.com/in/hamza-belarbi-736107321](https://www.linkedin.com/in/hamza-belarbi-736107321)
 

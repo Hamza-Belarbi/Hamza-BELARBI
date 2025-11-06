@@ -1,4 +1,4 @@
-# 👋 Welcome to my GitHub
+#  Welcome to my GitHub
 
 I’m **Hamza**, an engineering student at **Mines Saint-Étienne (Campus Provence)**, specialized in **microelectronics and computer science**.  
 My work focuses on **embedded systems**, **digital design**, and **hardware-software integration**.  
@@ -6,7 +6,7 @@ This GitHub showcases my **academic and personal projects** in electronics, prog
 
 ---
 
-## 🧠 Skills & Tools
+##  Skills & Tools
 
 | Domain | Tools / Languages |
 |--------|------------------|
@@ -18,7 +18,7 @@ This GitHub showcases my **academic and personal projects** in electronics, prog
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🔹 Mobile Robot — STM32 & Bluetooth Control
 - Development of a mobile robot based on an **STM32L476RG microcontroller**.  
@@ -37,13 +37,13 @@ This GitHub showcases my **academic and personal projects** in electronics, prog
 
 ---
 
-## 🎯 About Me
+##  About Me
 
 I’m particularly interested in how **autonomous and intelligent systems** can operate in challenging environments — including **robotics and space exploration applications**.  
 My goal is to keep developing skills that bridge **hardware, embedded software, and control systems**.
 
 ---
 
-## 📫 Contact
-- 💼 LinkedIn: [https://www.linkedin.com/in/hamza-belarbi-736107321](https://www.linkedin.com/in/hamza-belarbi-736107321)
+##  Contact
+-  LinkedIn: [https://www.linkedin.com/in/hamza-belarbi-736107321](https://www.linkedin.com/in/hamza-belarbi-736107321)
 

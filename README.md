@@ -11,9 +11,11 @@ This GitHub showcases my **academic and personal projects** in electronics, prog
 | Domain | Tools / Languages |
 |--------|------------------|
 | **Embedded Systems** | STM32CubeIDE, C, C++ |
+| **Machine Learning** | PyTorch, Scikit-learn, TensorFlow |
 | **Electronics Design** | KiCad, SystemVerilog |
 | **Simulation & Modeling** | COMSOL Multiphysics, Logisim, ModelSim, MATLAB |
-| **Software Development** | Python, SQL |
+| **Machine Learning** | PyTorch, Scikit-learn, TensorFlow |
+| **Software Development** | Python, SQL, Ocaml |
 | **Version Control** | Git, GitHub |
 
 ---
